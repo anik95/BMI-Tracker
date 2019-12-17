@@ -1,0 +1,21 @@
+.input-field {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    text-align: left;
+}
+.input-label::first-letter {
+    text-transform: uppercase;
+}
+
+.input-label {
+    padding: 8px 0;
+}
+
+.input {
+    padding: 12px 56px;
+    border-radius: 27px;
+    outline: none;
+    border: none;
+}

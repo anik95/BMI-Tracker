@@ -1,0 +1,10 @@
+.layout {
+    background-color: #172b4d;
+    height: 100vh;
+    text-align: center;
+}
+
+.title {
+    color: white;
+    display: inline-block;
+}
